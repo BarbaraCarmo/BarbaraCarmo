@@ -1,6 +1,6 @@
 ## Bárbara Carmo :wave:
 
-Olá, meu nome é Bárbara. Atualmente trabalho como desenvolvedora iOS Swift implemntando features e atuando em sustentação de apps na App Store pela [Compass UOL](https://compass.uol/en/home/). Sou estudande de Ciência da Computação pela PUC Minas e técnica em Informática pelo SENAI.
+Olá, meu nome é Bárbara. Atualmente trabalho como desenvolvedora iOS Swift implemntando features e atuando em sustentação de apps na App Store. Sou estudande de Ciência da Computação pela PUC Minas e técnica em Informática pelo SENAI.
 
 Atualemente tenho focado em estudos voltados para Swift e SwiftUI com o objetivo de crescer na área. Tenho pouco mais de 1 ano de experiência com Swift, porém já trabalhei com outras tecnologias, tais quais ReactJS e React Native.
 
