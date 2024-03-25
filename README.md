@@ -1,6 +1,6 @@
 # Bárbara Carmo  :wave:
 
-Hi! My name is [Bárbara], I'm an **iOS developer**. Welcome to My GitHub!
+Hi! My name is Bárbara, I'm an **iOS developer**. Welcome to My GitHub!
 
 ## About Me
 
