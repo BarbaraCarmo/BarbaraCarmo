@@ -20,7 +20,7 @@ In addition to my academic education, I continuously seek to enhance my skills t
 
 I'm excited to share my projects and collaborate with other developers here on GitHub. Feel free to explore my repository and reach out to me for discussions or collaborations!
 
-### My activity
+## My activity
 
 <div>
 <a href="https://github.com/seu-usuário-aqui">
@@ -28,7 +28,7 @@ I'm excited to share my projects and collaborate with other developers here on G
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraCarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
   
-### Contact
+## Contact
 
 <div>
   <a href="https://www.linkedin.com/in/barbaralfcarmo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
