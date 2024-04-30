@@ -1,4 +1,4 @@
-# Bárbara Carmo  :wave:
+# Bárbara Carmo 👋🏼
 
 Hi! My name is Bárbara, I'm an **iOS developer**. Welcome to My GitHub!
 
@@ -23,9 +23,9 @@ I'm excited to share my projects and collaborate with other developers here on G
 ## My activity
 
 <div>
-<a href="https://github.com/seu-usuário-aqui">
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BarbaraCarmo&layout=compact&langs_count=7&theme=dracula"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraCarmo&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://github.com/BarbaraCarmo">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BarbaraCarmo&show_icons=true"/>
 </div>
   
 ## Contact
