@@ -24,8 +24,8 @@ I'm excited to share my projects and collaborate with other developers here on G
 
 <div>
 <a href="https://github.com/BarbaraCarmo">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=BarbaraCarmo&show_icons=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=BarbaraCarmo&show_icons=true"/>
 </div>
   
 ## Contact
